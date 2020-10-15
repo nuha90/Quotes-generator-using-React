@@ -34,7 +34,7 @@ return(
 
       <div className="quote-buttons">
         <div className="social">
-          <a href="https://github.com/nuha90" target="_blank">
+          <a href="https://github.com/nuha90" >
           <i className="fab fa-github" ></i>
           </a>
         </div>
